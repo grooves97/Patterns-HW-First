@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.352
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TelephoneHW", "TelephoneHW\TelephoneHW.csproj", "{8F7CBF4B-C9C7-4F60-9C6F-00FB0452B1A7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarApp", "CarApp\CarApp.csproj", "{2D137E58-1D26-466C-AA34-CE40336B4ACB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ComputerApp", "ComputerApp\ComputerApp.csproj", "{FC98E815-25D1-4E76-99C8-A78DE5429887}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8F7CBF4B-C9C7-4F60-9C6F-00FB0452B1A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F7CBF4B-C9C7-4F60-9C6F-00FB0452B1A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F7CBF4B-C9C7-4F60-9C6F-00FB0452B1A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F7CBF4B-C9C7-4F60-9C6F-00FB0452B1A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2D137E58-1D26-466C-AA34-CE40336B4ACB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D137E58-1D26-466C-AA34-CE40336B4ACB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D137E58-1D26-466C-AA34-CE40336B4ACB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D137E58-1D26-466C-AA34-CE40336B4ACB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC98E815-25D1-4E76-99C8-A78DE5429887}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC98E815-25D1-4E76-99C8-A78DE5429887}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC98E815-25D1-4E76-99C8-A78DE5429887}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC98E815-25D1-4E76-99C8-A78DE5429887}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D8D704C3-E318-460C-B6D7-B1F85030D34C}
+	EndGlobalSection
+EndGlobal
